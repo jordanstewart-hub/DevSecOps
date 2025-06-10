@@ -1,8 +1,8 @@
-[DevSecOps Project Pt1.md](https://github.com/user-attachments/files/20681457/DevSecOps.Project.Pt1.md)[Upload<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+(https://github.com/user-attachments/files/20681457/DevSecOps.Project.Pt1.md)[Upload<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Set Up a Web App in the Cloud
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-vscode)
+
 
 **Author:** Jordan Stewart  
 **Email:** jordanstewartbusiness@gmail.com
