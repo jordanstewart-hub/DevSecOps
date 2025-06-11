@@ -1,6 +1,4 @@
-(https://github.com/user-attachments/files/20681457/DevSecOps.Project.Pt1.md)[Upload<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
-# Set Up a Web App in the Cloud
+# Part 1 DevSecOps Project: Set Up a Web App in the Cloud
 
 
 
@@ -29,7 +27,7 @@ Set Up a Web App in the Cloud:
 
 ### Key tools and concepts
 
-In the Nextwork's web app cloud setup project, the key services and concepts I learned included:
+In the web app cloud setup project, the key services and concepts I learned included:
 
 Amazon EC2: Launching and connecting to virtual servers.
 
@@ -46,12 +44,7 @@ Web Server Deployment: Installing and configuring a web server (like Nginx or Ap
 Cloud Infrastructure Basics: Understanding how to provision and manage cloud resources for scalable app deployment
 
 ### Project reflection
-
-I did not expect the possible errors to be made with the key pair permissions. That threw me off a little bit.
-
-This project took me longer than expected but it took me 1.5 hours to complete. The most challenging part was connecting to remote ssh. 
-
-This project is part one of a series of DevOps projects where I'm building a CI/CD pipeline! I'll be working on the next project tomorrow. 
+Setting up a web app in the cloud through the Nextwork project was a valuable hands-on experience that strengthened my understanding of cloud infrastructure and deployment. I learned how to launch and connect to EC2 instances, configure security groups, and manage SSH key pairs securely. I also practiced deploying a basic web application on a cloud server and troubleshooting connectivity issues. This project helped me understand the end-to-end flow of deploying an app—from local development to cloud hosting—while emphasizing the importance of secure configurations and automation. It gave me confidence in working with cloud tools and laid a strong foundation for DevOps and cloud-based development.
 
 ---
 
