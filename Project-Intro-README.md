@@ -14,9 +14,21 @@
 
 ---
 
-## I'm building a CI/CD pipeline in 7 days
+## Overview of the Nextwork 7‑Day DevOps Challenge: 🚀
+Over the course of a week, the challenge guides you through building a fully automated DevOps pipeline using AWS tools. Here's a day-by-day breakdown:
 
-In this DevOps project I will build my own CI/CD pipeline over 7 projects in 7 days. 
+Day 1 – Launch & Web App Setup
+Provision an EC2 instance, SSH into it (e.g. via VS Code Remote‑SSH), and install Java/Maven to generate a basic web app 
+
+Day 2 – GitHub Integration
+Initialize a local Git repo, connect it to GitHub, configure authentication (token), and push your web app code 
+
+Days 3–6 – CI/CD Pipeline Assembly
+Continue through the series, integrating AWS services like CodeBuild, CodeDeploy, and setting up testing automation (not shown explicitly in the condensed sources).
+
+Day 7 – Full CI/CD with CodePipeline
+Wrap up by deploying the end-to-end workflow using AWS CodePipeline, culminating in automated production-level deployment 
+
 
 ![Image](http://learn.nextwork.org/authentic_azure_zealous_melon/uploads/aws-devops-cicd_a1b2c3d4)
 
