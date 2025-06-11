@@ -52,7 +52,7 @@ Setting up a web app in the cloud through the Nextwork project was a valuable ha
 
 If EC2 is the service that creates virtual computers/servers, an instance is one of those computers/servers.
 
-Picking an EC2 instance is like customizing a virtual computer that fits what you need for your project. You can customize your EC2 instance's CPU, memory, storage, and networking capacity and more!
+Picking an EC2 instance is like customizing a virtual computer that fits what is needed for this project. You can customize your EC2 instance's CPU, memory, storage, and networking capacity and more!
 
 ### I also enabled SSH
 
