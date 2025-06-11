@@ -2,7 +2,6 @@
 
 # Join the 7 Day DevOps Challenge!
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-cicd)
 
 **Author:** Jordan Stewart  
 **Email:** jordanstewartbusiness@gmail.com
@@ -22,10 +21,6 @@ In this DevOps project I will build my own CI/CD pipeline over 7 projects in 7 d
 ![Image](http://learn.nextwork.org/authentic_azure_zealous_melon/uploads/aws-devops-cicd_a1b2c3d4)
 
 ---
-
-## Hold me accountable!
-
-I will set aside 1 hour every day for a week to work on this challenge. I will keep myself accountable by tracking my progress in a journal and sharing updates with my peers. My reward for completing this DevOps challenge will be treating myself to a nice dinner and updating my portfolio with the project.
 
 ### What is DevOps?
 
@@ -63,9 +58,3 @@ In short, CI/CD improves development speed, quality, and efficiency.
 
 ---
 
-## Excited to share my progress - do this challenge with me!
-
-![Image](http://learn.nextwork.org/authentic_azure_zealous_melon/uploads/aws-devops-cicd_ba6d42ae)
-
----
-[devopschallengestart.md](https://github.com/user-attachments/files/20691377/devopschallengestart.md)
