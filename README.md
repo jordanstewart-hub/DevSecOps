@@ -48,7 +48,7 @@ Setting up a web app in the cloud through the Nextwork project was a valuable ha
 
 ---
 
-## Launching an EC2 instance
+## 1. Launching an EC2 instance
 
 If EC2 is the service that creates virtual computers/servers, an instance is one of those computers/servers.
 
@@ -72,7 +72,7 @@ Once I set up my key pair, AWS automatically downloaded it as a .pem file.
 
 ---
 
-## Set up VS Code
+## 2. Set up VS Code
 
 💡 What is VS Code?
 Visual Studio Code (VS Code) is one of the most popular tools for creating and managing coding projects. You'll often hear people call VS Code an IDE (Integrated Development Environment), which means software that help you write and edit code. It's similar to how Microsoft Word or Google Docs help you write documents!
@@ -103,7 +103,7 @@ I made sure to replace "USERNAME" with my Windows username.
 
 ---
 
-## SSH connection to EC2 instance
+## 3. SSH connection to EC2 instance
 
 To connect to my EC2 instance, I opened the terminal in VS Code and used the SSH command with my private key file and the instance’s public DNS.
 
@@ -116,7 +116,7 @@ A Public IPv4 DNS (which stands for Domain Name System) is the public address fo
 
 ---
 
-## Maven & Java
+## 4. Install Maven & Java
 
 💡 What is Apache Maven?
 Apache Maven is a tool that helps developers build and organize Java software projects. It's also a package manager, which means it automatically download any external pieces of code your project depends on to work.
@@ -138,9 +138,9 @@ Amazon Corretto 8 is a version of Java that I'm using for this project. It's fre
 
 ---
 
-## Create the Application
+## 5. Create the Application
 
-💡 Break down these commands for me... What is mvn? 
+💡 Breaking down these commands ... What is mvn? 
 When you run mvn commands, you're asking Maven to perform tasks (like creating a new project or building an existing one).
 
 The mvn archetype:generate command specifically tells Maven to create a new project from a template (which Maven calls an archetype). This command sets up a basic structure for the project, so we don't have to start from scratch.
@@ -169,7 +169,7 @@ User: should say ec2-user
 
 ---
 
-## Create the Application
+## Create the Application in VS Code via EC2 Instance
 
 All the files and subfolders you see under nextwork-web-project are parts of a web app.
 
