@@ -29,8 +29,9 @@ Continue through the series, integrating AWS services like CodeBuild, CodeDeploy
 Day 7 – Full CI/CD with CodePipeline
 Wrap up by deploying the end-to-end workflow using AWS CodePipeline, culminating in automated production-level deployment 
 
+<img width="1359" alt="architecture-complete-DEVOPS CHALLENGE" src="https://github.com/user-attachments/assets/f1898262-5d9e-4969-ad76-7f0f90cdaae8" />
 
-![Image](http://learn.nextwork.org/authentic_azure_zealous_melon/uploads/aws-devops-cicd_a1b2c3d4)
+
 
 ---
 
