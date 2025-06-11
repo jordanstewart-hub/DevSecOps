@@ -129,9 +129,6 @@ I'll use Maven later on to help set up all the necessary web files to create a w
 
 Java is a popular programming language used to build different types of applications, from mobile apps to large enterprise systems.
 
-
-
-
 Maven, which I just downloaded, is a tool that NEEDS Java to operate. So if I don't install Java, I won't be able to use Maven to generate/build the web app today.
 
 Amazon Corretto 8 is a version of Java that I'm using for this project. It's free, reliable and provided by Amazon.
