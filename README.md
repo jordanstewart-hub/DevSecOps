@@ -169,7 +169,7 @@ User: should say ec2-user
 
 ---
 
-## Create the Application in VS Code via EC2 Instance
+## 6. Create the Application in VS Code via EC2 Instance
 
 All the files and subfolders you see under nextwork-web-project are parts of a web app.
 
@@ -225,5 +225,3 @@ Editing code in the terminal (using tools like Vim or Nano) is fast, lightweight
 
 ---
 
----
-ing DevSecOps Project Pt1.md…]()
